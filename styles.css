@@ -6,6 +6,6 @@ div{
 	padding:10px;
 	font-size:20px;
 	color:white;
-	border-left:6px solid green
-	
+	border-left:6px solid green;
+	text-decoration:underline;
 }
